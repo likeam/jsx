@@ -10,7 +10,7 @@ const App = () => {
                 Enter name:
             </label>
             <input id="name" type="text" />
-            <button style= {{ backgroundColor: 'orangered', color: 'white '}}>Submit</button>
+            <button style= {{ backgroundColor: 'red', color: 'white '}}>Submit</button>
         </div>
     );
 };
